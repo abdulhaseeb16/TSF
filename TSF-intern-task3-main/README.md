@@ -8,6 +8,6 @@ Frontend: HTML, CSS, JavaScript
 
 Payment gateway: Razorpay
 
-Link to site: 
+Link to site: http://advocatory-sip.000webhostapp.com/
 
-Youtube video:
+Youtube video:https://youtu.be/kD41Fzw8zw0
